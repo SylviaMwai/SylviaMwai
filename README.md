@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SylviaMwai
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning python and R
+- 🌱 I’m currently learning exploratory data analysis with python
 - 💞️ I’m looking to collaborate on different projects
 - 📫 Reach me through my email
 
