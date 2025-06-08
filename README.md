@@ -1,3 +1,5 @@
+Hello 
+
 💡 Envision a bridge that spans the sectors of complex datasets and insightful applications, anchored by a passion for mathematics and a dedication to innovative data science. That bridge is me—Sylvia Mwai, a dedicated, analytical, and forward-thinking professional with deep-rooted expertise in industrial mathematics and data analytics.
 
 👉 Throughout my academic and professional journey, I have honed my skills in integrating complex mathematical theories with advanced data analysis techniques. My core strength is transforming sophisticated mathematical models into actionable financial strategies through detailed data scrutiny. I utilize programming languages and visualization tools to extract insights that facilitate informed decision-making.
